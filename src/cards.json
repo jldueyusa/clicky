@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Joey Tribbiani",
+      "image": "https://vignette.wikia.nocookie.net/friends/images/f/f5/JoeyTribbiani.jpg/revision/latest/scale-to-width-down/350?cb=20180424154245"
+    },
+    {
+      "id": 2,
+      "name": "Rachael Green",
+      "image": "https://vignette.wikia.nocookie.net/friends/images/2/2b/RachelPortal.jpeg/revision/latest/scale-to-width-down/217?cb=20180501104439"
+    },
+    {
+      "id": 3,
+      "name": "Chandler Bing",
+      "image": "https://vignette.wikia.nocookie.net/friends/images/f/f6/ChandlerPortal.jpeg/revision/latest/scale-to-width-down/217?cb=20180501104442"
+    },
+    {
+      "id": 4,
+      "name": "Monica Geller",
+      "image": "https://vignette.wikia.nocookie.net/friends/images/0/0d/MonicaPortal.jpeg/revision/latest/scale-to-width-down/217?cb=20180501104440"
+    },
+    {
+      "id": 5,
+      "name": "Ross Geller",
+      "image": "https://vignette.wikia.nocookie.net/friends/images/2/21/RossPortal.jpeg/revision/latest/scale-to-width-down/217?cb=20180501104442"
+    },
+    {
+      "id": 6,
+      "name": "Phoebe Buffay",
+      "image": "https://vignette.wikia.nocookie.net/friends/images/c/c3/PhoebePortal.jpeg/revision/latest/scale-to-width-down/217?cb=20180501104440"
+    },
+    {
+      "id": 7,
+      "name": "Janice",
+      "image": "https://i.pinimg.com/736x/da/af/d3/daafd3a114bc490833dc89c2a49eb3d6--friends-tv-show-zodiac-signs.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Ben Geller",
+      "image": "https://vignette.wikia.nocookie.net/friends/images/8/8e/Ben.png/revision/latest?cb=20180324151610"
+    },
+    {
+      "id": 9,
+      "name": "Gunther",
+      "image": "https://static01.nyt.com/images/2012/08/05/arts/05SILENT3/05SILENT3-custom1.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Emma Geller-Green",
+      "image": "https://vignette.wikia.nocookie.net/friends/images/0/0d/Screen_Shot_2016-01-04_at_6.29.59_PM.png/revision/latest?cb=20160106205620"
+    },
+    {
+      "id": 11,
+      "name": "Mike Hanigan",
+      "image": "https://vignette.wikia.nocookie.net/friends/images/0/0d/Mike_Hannigan.jpeg/revision/latest?cb=20180321211517"
+    },
+    {
+      "id": 12,
+      "name": "Susan Bunch",
+      "image": "https://vignette.wikia.nocookie.net/lgbt/images/6/6d/Susan_Bunch.jpg/revision/latest?cb=20160713203019"
+    }
+  ]
