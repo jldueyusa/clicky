@@ -13,12 +13,12 @@ This is a memory game. In this game you will click on the characters from the hi
 
 1. [(Click Here for Heroku Link)](https://scraper777.herokuapp.com/) Click on the images of the characters, make a match and get a point
 
-![scraper Inst 1](https://github.com/jldueyusa/scraper/blob/master/public/assets/scrape1.png)
+![clicky1](https://github.com/jldueyusa/clicky/blob/master/public/images/clickyyouguessedright.png)
 
 
 2. Match incorrectly, and you go back to 0.
 
-![scraper Inst 2](https://github.com/jldueyusa/scraper/blob/master/public/assets/scrape2.png)
+![clicky2](https://github.com/jldueyusa/clicky/blob/master/public/images/clickyyouguessedwrong.png)
 
 
 # Tools and Applications
