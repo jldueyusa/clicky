@@ -1,16 +1,17 @@
 nav {
     width: 100%;
     font-size: 1.5rem;
-    color: #fff;
+    color: #ffffff;
     margin-bottom: 20px;
-    background-color:  rgba(253, 173, 1, 0.788);
+    background-color:  rgba(14, 77, 146);
     height: auto;
-    font-family: 'Sanchez', serif, cursive;
+    font-family: 'Times New Roman', Times, serif;
   }
   
   a {
-    color: #070000;
+    color: #ffffff;
     font-size: 2.6rem;
+    font-family: 'Times New Roman', Times, serif;
   }
   
   a:hover {
@@ -35,8 +36,9 @@ nav {
   }
 
   .alignRight{
-    color: black;
+    color: #ffffff;
     text-align: right;
     padding-right: 1%;
     font-size: 2.2rem;
+    font-family: 'Times New Roman', Times, serif;
   }
