@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/jldueyusa/scraper/blob/master/public/assets/newspaper.png" width="250" height="200">
+<img src="https://github.com/jldueyusa/clicky/blob/master/public/images/readmeimage.png" width="250" height="200">
 </p>
 
 # Welcome to the Clicky Memory game
