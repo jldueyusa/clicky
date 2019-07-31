@@ -7,7 +7,7 @@
 In this game you will click on the characters from the hit Showtime series Ray Donovan. Keep clicking to increase your score. Make a duplicate and your score will start back at 0.
 
 ### Created by: Jennifer Duey
-![](name-of-giphy.gif)
+![gif](https://github.com/jldueyusa/clicky/blob/master/public/images/giphydonovan.gif.sb-feeeba03-fjKlf5)
 
 ### Here is how you use this app
 
