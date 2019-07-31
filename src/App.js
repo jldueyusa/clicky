@@ -71,14 +71,14 @@ class App extends Component {
     return (
       <Wrapper>
         <Nav
-          title="The Clicky Memory Game"
+          title="The Clicky Game"
           score={this.state.currentScore}
           topScore={this.state.topScore}
           correctIncorrect={this.state.correctIncorrect}
         />
 
         <Title>
-          Match the images. The fewer the turns the higher the score
+          Click on the images. Don't duplicate or you will lose a point.
         </Title>
         <Container>
           <Row>
